@@ -1,7 +1,7 @@
 # E-commerce-Website
 
 ## Project Description
-This webapp is coded using Flask Python web framework.
+This webapp's code is in Flask Python web framework.
 There is an authentication system for this E-commerce Website.
 
 In this Flask Web Application, end-users can sign up / login to an account and start selling and buying items that are available on the market.
