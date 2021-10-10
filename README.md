@@ -10,3 +10,8 @@ In this Flask Web Application, end-users can sign up / login to an account and s
 ## Setting up
 1. Create a virtual env and do ".\env\Scripts\activate" to activate it
 2. Install dependencies into your virtual environment by doing `py -m pip install -r requirements.txt`.
+
+
+
+## Resources
+Flask Course - Python Web Application Development https://www.youtube.com/watch?v=Qr4QMBUPxWo
