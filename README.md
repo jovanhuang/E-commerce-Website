@@ -9,7 +9,7 @@ In this Flask Web Application, end-users can sign up / login to an account and s
 
 ## Setting up
 1. Git clone this repository.
-2. Create a virtual env by doing `py -m venv env`.
+2. Create a virtual env by doing `py -m venv env` in the repository in your local machine.
 3. Activate your virtual environnment by doing `.\env\Scripts\activate`.
 4. Install dependencies into your virtual environment by doing `py -m pip install -r requirements.txt`.
 5. `cd` into the e-commerce-website directory and do `python run.py`
